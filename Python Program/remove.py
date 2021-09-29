@@ -1,0 +1,4 @@
+my_List=["Dipu","Debu","Mitali","Rupali","Soma"]
+print(my_List)
+my_List.remove("Soma")
+print(my_List)
